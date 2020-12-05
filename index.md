@@ -1,15 +1,18 @@
-TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO <img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" align="right"/>TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO 
+## What Is It?
+### Multiple Instruments
+In short, you can play a bunch of different instruments. On the right, you can see a pitched helicopter-sounds "instrument" in use. <img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" align="right"/>
+
+### Load Tracks
+You can also load in MIDI files for your listening pleasure, or you can use them as backing tracks!
+
+## Where Can I Find More Info?
+### User Guide
+Check out our README.txt file!
+
+### Program Structure
+Check out pages 2-11 of "Program Specification.pdf" to learn more about the classes and how they relate to each other.
 
 <!--  
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/djshuster/musical-keyboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
