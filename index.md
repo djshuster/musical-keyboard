@@ -1,4 +1,4 @@
-TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO <img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%"/>TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO 
+TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO <img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" class="inline"/>TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO TEST TEXT GO 
 
 <!--  
 ## Welcome to GitHub Pages
