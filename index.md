@@ -25,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Image](<img src="Images/helicopter screenshot 0.jpg" alt="hi" class="inline"/>)
+![Image](<img src="Images/helicopter-screenshot-0.jpg" alt="hi" class="inline"/>)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
