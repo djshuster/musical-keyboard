@@ -1,7 +1,7 @@
 # What Is It?
 ## Multiple Instruments
 <img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" align="right"/>
-In short, you can play a bunch of different instruments. Below, you can see a pitched helicopter-sounds "instrument" in use. Funky!
+In short, you can play a bunch of different instruments. On the right, you can see our pitched helicopter-sounds "instrument" in use. Funky!
 
 ## Load Tracks
 You can also load in MIDI files for your listening pleasure, or you can use them as backing tracks!
