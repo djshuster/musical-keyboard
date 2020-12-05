@@ -7,10 +7,10 @@ You can also load in MIDI files for your listening pleasure, or you can use them
 
 ## Where Can I Find More Info?
 ### User Guide
-Check out our README.txt(https://github.com/djshuster/musical-keyboard/blob/main/README.txt) file!
+Check out our [README.txt](https://github.com/djshuster/musical-keyboard/blob/main/README.txt) file!
 
 ### Program Structure
-Check out pages 2-11 of "Program Specification.pdf"(https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
+Check out pages 2-11 of ["Program Specification.pdf"](https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
 
 <!--  
 
