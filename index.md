@@ -1,4 +1,4 @@
-<img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="20%" height="20%"/>
+<img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%"/>
 
 <!--  
 ## Welcome to GitHub Pages
