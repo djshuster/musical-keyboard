@@ -29,16 +29,18 @@ To load a backing track to play along with, you can open the â€œLoad MIDI Fileâ€
 Some "instruments," like the helicopter or seashore, will require you to hold down the key before the sound really begins to be audible.
 To add instruments:
 (1) Visit http://fmslogo.sourceforge.net/manual/midi-instrument.html (or any other website that lists your desired instrument). Find its corresponding number.
+
 (2) and open up insInitializer.java.
+
 (3) Add it by putting this line of code where indicated in the java file: "insList.add(new Instrument("<Name of Instrument>", <MIDI number code for instrument>));". Save that file. By default, the background will be gray for a newly added instrument. If you would like to add a custom background image, name it <Name of Instrument>.jpg and place it in the "Backgrounds" folder. Note: for best results, aim to resize the image to about 1024x468, or else the background will either have some gray or some of your image will be covered up by the keyboard.
+
 (4) Finally, recompile and rerun the program.
   
 ## Playback of MIDI Files
 To add or remove a MIDI track from the "Load MIDI File for Playback" menu:
-Open the "Tracks" folder. Add or remove your desired MIDI file. Note that it must be a MIDI file.
-Then recompile and rerun the program.
+First open the "Tracks" folder. Add or remove your desired MIDI file. Note that it must be a MIDI file. Then recompile and rerun the program.
 
-## Program Structure
+# Program Structure
 Check out pages 2-11 of ["Program Specification.pdf"](https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
 
 # Contact Me
