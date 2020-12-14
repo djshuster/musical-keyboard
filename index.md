@@ -13,30 +13,13 @@ Check out our [README.txt](https://github.com/djshuster/musical-keyboard/blob/ma
 ## Program Structure
 Check out pages 2-11 of ["Program Specification.pdf"](https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
 
-<!--  
+# Contact Me
+Did you encounter a bug in our application? Do you want to request a new feature? Have a funny meme for us?
+Email me at djs.shuster@gmail.com.
 
-```markdown
-Syntax highlighted code block
-```
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djshuster/musical-keyboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[documentation](https://docs.github.com/categories/github-pages-basics/)
-[contact support](https://github.com/contact)
---> 
+# Acknowledgements
+Project was coded by Sabir Meah, Nat Roth, and David Shuster.
+MIDI files and background images found in the Tracks and Backgrounds folders are royalty-free; thank you to the authors!
+Thank you to Rob Camick for kindly providing use of CloseListener.java.
+Thank you also to Professors Alfeld and Kaplan for providing knowledge from lectures and code from labs and projects, a great deal of which was appropriated for our uses.
+Also thanks to Fatso, a.k.a. Keyboard Cat, for being cute and being our muse.
