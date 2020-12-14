@@ -29,7 +29,7 @@ To load a backing track to play along with, you can open the â€œLoad MIDI Fileâ€
 Some "instruments," like the helicopter or seashore, will require you to hold down the key before the sound really begins to be audible.
 To add instruments:
 
-(1) Visit http://fmslogo.sourceforge.net/manual/midi-instrument.html (or any other website that lists your desired instrument). Find its corresponding number.
+(1) [Click here](http://fmslogo.sourceforge.net/manual/midi-instrument.html) (or any other website that lists your desired instrument). Find its corresponding number.
 
 (2) and open up insInitializer.java.
 
@@ -42,7 +42,7 @@ To add or remove a MIDI track from the "Load MIDI File for Playback" menu:
 First open the "Tracks" folder. Add or remove your desired MIDI file. Note that it must be a MIDI file. Then recompile and rerun the program.
 
 # Program Structure
-Check out pages 2-11 of ["Program Specification.pdf"](https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
+Check out pages 2-11 of [Program Specification.pdf](https://github.com/djshuster/musical-keyboard/blob/main/Program%20Specification.pdf) to learn more about the classes and how they relate to each other.
 
 # Contact Me
 Did you encounter a bug in our application? Do you want to request a new feature? Have a funny meme for us?
