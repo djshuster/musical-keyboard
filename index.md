@@ -28,6 +28,7 @@ To load a backing track to play along with, you can open the â€œLoad MIDI Fileâ€
 ## Instruments
 Some "instruments," like the helicopter or seashore, will require you to hold down the key before the sound really begins to be audible.
 To add instruments:
+
 (1) Visit http://fmslogo.sourceforge.net/manual/midi-instrument.html (or any other website that lists your desired instrument). Find its corresponding number.
 
 (2) and open up insInitializer.java.
