@@ -50,7 +50,11 @@ Email me at djs.shuster@gmail.com.
 
 # Acknowledgements
 Project was coded by Sabir Meah, Nat Roth, and David Shuster.
+
 MIDI files and background images found in the Tracks and Backgrounds folders are royalty-free; thank you to the authors!
+
 Thank you to Rob Camick for kindly providing use of CloseListener.java.
+
 Thank you also to Professors Alfeld and Kaplan for providing knowledge from lectures and code from labs and projects, a great deal of which was appropriated for our uses.
+
 Also thanks to Fatso, a.k.a. Keyboard Cat, for being cute and being our muse.
