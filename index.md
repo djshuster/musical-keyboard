@@ -1,6 +1,6 @@
 # What Is It?
 ## Multiple Instruments
-<img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" align="right"/>
+<img src="Images/helicopter-screenshot-0.jpg" alt="musical keyboard program with helicopter-sound instrument" width="40%" height="40%" align="right" style="float:right; padding-left:20px"/>
 In short, you can play a bunch of different instruments. On the right, you can see our pitched helicopter-sounds "instrument" in use. Funky!
 
 ## Load Tracks
