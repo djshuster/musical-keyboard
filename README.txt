@@ -33,10 +33,10 @@ To add or remove a MIDI track from the "Load MIDI File for Playback" menu:
 Open the "Tracks" folder. Add or remove your desired MIDI file. Note that it must be a MIDI file.
 Then recompile and rerun the program.
 
-***Contact Us***
+***Contact Me***
 
 Did you encounter a bug in our application? Do you want to request a new feature? Have a funny meme for us?
-Email us djs.shuster@gmail.com, smeah21@amherst.edu, or natrothchicken@gmail.com.
+Email me at djs.shuster@gmail.com.
 
 ***Acknowledgements***
 Project was coded by Sabir Meah, Nat Roth, and David Shuster.
